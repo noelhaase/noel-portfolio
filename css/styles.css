@@ -2,19 +2,19 @@
   margin: 0 auto;
 }
 body {
-  background-image: url("https://i.redd.it/v1uo2j7okvr51.png");
+  background-image: url("https://i.redd.it/v1uo2j7okvr51.png"); 
   background-size: 1300px 700px;
 }
 #list {
   text-align: right;
   color: #282929;
-  font-size: 22px;
+  font-size: 20px;
   background: #282929;
   height: 60px;
 }
 #hello {
   margin: auto;
-  width: 25%;
+  width: 50%;
   border: 3px double lime;
   padding: 20px;
   background: white;
@@ -24,27 +24,13 @@ body {
 }
 #about {
   margin: auto;
-  width: 25%;
+  width: 50%;
   border: 3px double lime;
   padding: 20px;
   background: white;
   color: gray;
   box-shadow: 5px 5px 5px #2f3030;
-}
-#project {
-  text-align: center;
-  color: gray;
- margin: auto;
-  width: 50%;
-  border: 3px solid #ba6059;
-  padding: 20px;
-  background: white;
-  box-shadow: 5px 5px 5px black;
-}
-#Free-code-camp {
-  width: 25%;
-  height: 200px;
-  border-radius: 30%;
+  height: 40px;
 }
 /*  width: 40px;
     height: 40px;

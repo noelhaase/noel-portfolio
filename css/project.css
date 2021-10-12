@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://64.media.tumblr.com/5e6ec9c73e297d4f7008a095a98e4c5a/b7b35003da5173d4-ad/s1280x1920/4061b05b21a5d1815fdaebc66363d7906dfd500b.png");
+
+}
+#List {
+    text-align: right;
+    color: #282929;
+    font-size: 20px;
+    background: hsl(180, 1%, 16%);
+    height: 60px;
+  }
